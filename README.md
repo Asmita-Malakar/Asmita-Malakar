@@ -2,7 +2,7 @@
 
 <!--
 **Asmita-Malakar/Asmita-Malakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://user-images.githubusercontent.com/55673323/140675537-ff53bf80-e15c-478f-8509-30919bcb4ead.png)
+### ![image](https://user-images.githubusercontent.com/55673323/140675537-ff53bf80-e15c-478f-8509-30919bcb4ead.png)
 
 Here are some ideas to get you started:
 
