@@ -3,7 +3,10 @@
    
    Hey there 👋
    
-   I am Asmita Malakar, a growing front end and full stack developer. I have experience working with Python for data analysis projects along with intermediate skill in the Django framework. For web dev, I have worked with React Native along with HTML/CSS/JS, and AWS and firebase backend. Though I have worked with a variety of organizations in the past, I have a particular 
+   I am Asmita Malakar, a growing front end and full stack developer. I have experience working with Python for data analysis projects along with intermediate skill in the Django framework. For web dev, I have worked with React Native along with HTML/CSS/JS, and AWS and firebase backend. Though I have worked with a variety of organizations in the past, I have a particular affinity for working with edtech nonprofit startups. 
+   
+   
+
 
 
 
