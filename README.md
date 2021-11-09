@@ -12,6 +12,7 @@
 
 In the summer of 2021, I recieved the opportunity to work with a student led nonprofit called STEMchats to develop a website for their Blueprint subteam using HTML/CSS/JS (Jquery library) while learning about their firebase backend.                                                                        
 
+  ### ![image](https://user-images.githubusercontent.com/55673323/140869175-ace617a7-5629-44d0-9d5d-7873a234d486.png)          Wave Learning Festival
 
 
 
