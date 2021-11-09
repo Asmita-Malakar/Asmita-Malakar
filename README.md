@@ -14,6 +14,7 @@ In the summer of 2021, I recieved the opportunity to work with a student led non
 
   ### ![image](https://user-images.githubusercontent.com/55673323/140869175-ace617a7-5629-44d0-9d5d-7873a234d486.png)          Wave Learning Festival
 
+Presently, I serve as a developer and data team member for a edtech nonprofit, aiming to decrease educational inequality, called Wave Learning Festival and work with their React frontend and aws backend.
 
 
 <!--
